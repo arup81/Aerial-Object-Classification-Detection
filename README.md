@@ -1,2 +1,2 @@
 # Aerial-Object-Classification-Detection
-Aerial Surveillance, Wildlife Monitoring, Security &amp; Defense Applications
+Custom CNN and YOLOv8 model
